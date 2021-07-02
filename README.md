@@ -1,8 +1,8 @@
-# Clip-Path-site
+# Shrek-Clip-Path-site
 
 Сайт с эффектом Clip-Path (и Шреком)
 
-![11111](https://user-images.githubusercontent.com/56477695/116584157-bcb52300-a91f-11eb-9ba3-fd3521cc990b.jpg)
+![img-portfolio](https://user-images.githubusercontent.com/56477695/124283954-2981af00-db55-11eb-9710-85446e320d41.jpg)
 
 Portfolio-2 {
  
