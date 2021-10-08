@@ -4,7 +4,7 @@
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/124283954-2981af00-db55-11eb-9710-85446e320d41.jpg)
 
-## Portfolio-2 {
+## Portfolio {
  
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-25/Clip-Path/index.html
 
