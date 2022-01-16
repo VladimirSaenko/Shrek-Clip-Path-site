@@ -10,4 +10,3 @@ let side2 = document.getElementById('side2');
 window.addEventListener('scroll', function() {
     side2.style.left = window.pageYOffset + 'px';
 });
-
